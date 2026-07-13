@@ -1,66 +1,109 @@
-👋 Hey there! I'm Jaswant aka @jaswant0707
+# Hi 👋, I'm Jaswant Yadav
 
-🚀 About Me
+### Full-Stack Developer • AI Enthusiast • Open Source Learner
 
-Hey! I'm a chill guy who loves to code, create music, and automate stuff. Whether it's building something cool with C++ or making microprocessors do magic, I'm always up for the challenge. Also, I love experimenting with automation, so don’t be surprised if my bot replies before I do! 😆
+I'm a passionate software developer from India who enjoys building modern web applications, AI-powered tools, and automation systems. I love creating products that solve real-world problems through clean code, intuitive design, and scalable architecture.
 
-👀 Interests
+---
 
-💻 Coding and Software Development
+## 🚀 About Me
 
-🎶 Music Production & Sound Engineering
+- 🔭 Currently building **AI-powered Web Applications**
+- 🌱 Learning **Node.js, Backend Development, Cloud & System Design**
+- 💡 Interested in **Artificial Intelligence, Automation and Full-Stack Development**
+- 🎯 Goal: Become a Software Engineer and contribute to impactful open-source projects
+- ⚡ Fun fact: I enjoy turning ideas into real products.
 
-🤖 Automation & AI Bots
+---
 
-🔬 Microprocessor Programming (8085, and beyond!)
+## 🛠️ Tech Stack
 
-🎨 Romantic & Stylish UI/UX Designs
+**Languages**
 
-🚀 Tech & Innovation
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql" />
+</p>
 
-🌱 Currently Learning
+**Frameworks & Tools**
 
-C++ from scratch (because a good coder is always learning! 😎)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,vscode,androidstudio,netlify,postman" />
+</p>
 
-8085 Microprocessor Programming (Old-school, but powerful!)
+---
 
-Advanced Python Automation with Selenium & WhatsApp Bots
+## 📚 Currently Exploring
 
-Building creative and stylish projects with an aesthetic touch
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Backend Engineering
+- REST APIs
+- Firebase Ecosystem
+- Cloud Deployment
+- Data Structures & Algorithms
 
-💞️ Looking to Collaborate On
+---
 
-Open-source projects related to automation & AI
+## 🚀 Featured Projects
 
-Music-related coding tools (maybe an AI-based music generator?)
+### 🔹 PureScan
 
-Creative UI/UX design-based applications
+AI-powered product transparency platform that analyzes ingredients and provides easy-to-understand health insights.
 
-Any fun, challenging, and innovative project!
+### 🔹 AI Analysis Platform
 
-📫 How to Reach Me
+Modern web application integrating AI APIs for intelligent product analysis and recommendations.
 
-GitHub: jaswant0707
+### 🔹 Automation Tools
 
-Email: jaswanty132@gmail.com
+Python-based automation projects including productivity scripts and browser automation.
 
-Blog: jaswant0707.blogspot.com 
+---
 
-Instagram: @jaswant_0707
+## 📊 GitHub Stats
 
-YouTube: @funny_videos_0707
+<p align="center">
 
-Phone: +91 7058144416 (For important collaborations only)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaswant0707&show_icons=true&theme=github_dark&hide_border=true"/>
 
-WhatsApp Bot (Coming Soon 🤖)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswant0707&layout=compact&theme=github_dark&hide_border=true"/>
 
-😄 Fun Facts
+</p>
 
-I don’t say Good Morning or Good Night – I just say Radhe-Radhe! 🙏
+---
 
-My WhatsApp messages are so automated, even I don’t know when they are sent! 😂
+## 🔥 GitHub Streak
 
-I have a fun-loving vibe, and I’m always up for coding, music, and some masti! 😎🔥
+<p align="center">
 
-"Stay chill, keep coding, and let’s build something epic!" 🚀🔥
+<img src="https://streak-stats.demolab.com?user=jaswant0707&theme=github-dark-blue&hide_border=true"/>
 
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+<a href="mailto:jaswanty132@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jaswant0707">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/jaswant_0707">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://jaswant0707.blogspot.com">
+<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> **"Code with purpose. Learn continuously. Build products that make a difference."**
