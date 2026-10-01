@@ -1,4 +1,7 @@
 # Hi 👋, I'm Jaswant Yadav
+# My second Github Account <a href="https://github.com/chillcoder4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ### Full-Stack Developer • AI Enthusiast • Open Source Learner
 
@@ -98,9 +101,7 @@ Python-based automation projects including productivity scripts and browser auto
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://jaswant0707.blogspot.com">
-<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-</a>
+
 
 </p>
 
